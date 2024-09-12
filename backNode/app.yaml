@@ -1,0 +1,6 @@
+runtime: nodejs18  
+entrypoint: node server.js  
+
+handlers:
+  - url: /.*
+    script: auto

@@ -1,0 +1,14 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+# Logs
+logs
+*.log
+
+# Miscellaneous
+.DS_Store
+.env   # Caso esteja usando variáveis de ambiente
+
+# Built files
+build/
