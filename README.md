@@ -41,3 +41,8 @@ export const environment = {
   apiUrl: 'http://localhost:3000' 
 };
 ```
+
+Para rodar a aplicação em modo de desenvolvimento, execute:
+```bash
+  ng serve
+```
